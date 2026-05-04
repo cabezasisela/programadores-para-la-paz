@@ -1,6 +1,8 @@
 Pregunta 1
-Respuesta: B
+Respuesta: B 
 Pregunta 2
-Respuesta: C
+Respuest: B 
 Pregunta 3
-Respuesta: B
+Respuesta: C 
+Pregunta 4
+Respuesta: B 
