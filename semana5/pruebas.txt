@@ -1,1 +1,5 @@
+http://localhost:3000 -> Carga la ruta raiz del servidor y muestra el mensaje de inicio del proyecto.
 
+http://localhost:3000/saludo -> Carga la ruta saludo utilizando el metodo GET y devuelve el texto configurado.
+
+http://localhost:3000/mensaje/juan -> Carga una ruta con parametro dinamico, donde el servidor recibe el valor juan a traves de la URL y lo procesa en la respuesta.
