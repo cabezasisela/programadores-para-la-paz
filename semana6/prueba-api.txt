@@ -1,1 +1,1 @@
-
+Al enviar la petición POST a la ruta de registro con los datos de María, el servidor procesa correctamente la información y devuelve una respuesta en formato JSON. El mensaje confirma el estado de la operación avisando que los datos fueron recibidos con éxito, y muestra de vuelta el nombre y el texto original que se había enviado.
