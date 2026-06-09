@@ -1,1 +1,7 @@
+¿Qué hace esta ruta?
 
+La ruta app.post('/reporte') sirve para recibir información externa que los usuarios envían desde un formulario. En lugar de solo mostrar datos en la pantalla, procesa la información que viene en el cuerpo de la solicitud (req.body) y responde con un mensaje en formato JSON confirmando que el reporte fue recibido con éxito.
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+En una aplicación del barrio o de la comunidad, esta ruta sería excelente para crear un sistema de alertas ciudadanas o reportes vecinales. Por ejemplo, si un vecino quiere reportar una alcantarilla rota, una luminaria dañada o enviar una propuesta para el sector, llena el formulario en su celular, y esta ruta POST se encarga de recibir los datos de manera segura y organizada para que los administradores puedan atender la solicitud.
