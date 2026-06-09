@@ -1,0 +1,9 @@
+{
+"name": "proyecto-accesibilidad",
+"version": "1.0.0",
+"description": "Actividad de accesibilidad y frontend",
+"main": "server.js",
+"dependencies": {
+"express": "^4.18.2"
+}
+}
