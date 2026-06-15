@@ -1,1 +1,10 @@
+{
+  "name": "sistema-reportes-semana7",
+  "version": "1.0.0",
+  "description": "Manejo de arreglos y peticiones en el servidor",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
 
