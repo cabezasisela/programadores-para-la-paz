@@ -1,1 +1,12 @@
+Ejemplo 1:
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La bombilla del poste de la esquina principal parpadea y se apaga por completo en la noche"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Aseo y basuras",
+  "descripcion": "Hay una acumulación grande de residuos tapando la alcantarilla de la calle principal"
+}
 
