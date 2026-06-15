@@ -1,1 +1,1 @@
-
+Al hacer la prueba enviando un nuevo reporte a la ruta POST, el servidor recibe los datos correctamente y los guarda dentro de la lista general usando el método push. En la pantalla se puede ver que el sistema responde de inmediato con un mensaje de éxito en formato JSON, confirmando que la información quedó almacenada y mostrando los datos exactos del reporte que se acaba de recibir
