@@ -1,1 +1,1 @@
-
+Cuando se ejecuta el comando node server.js, el sistema inicia el servidor local y este se queda "escuchando" activamente las peticiones en el puerto asignado. En la terminal aparece un mensaje de confirmación que suele decir "Servidor corriendo en el puerto 3000" (o el número de puerto configurado). Al visitar la ruta /estado desde el navegador o mediante una solicitud, el servidor procesa la petición y responde con un objeto en formato JSON que muestra datos clave de la aplicación, confirmando textualmente: "Servidor funcionando" y "API comunitaria".
