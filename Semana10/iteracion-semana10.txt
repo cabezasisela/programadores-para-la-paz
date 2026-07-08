@@ -1,1 +1,14 @@
+• ¿Qué 2 tareas del backlog harías primero?:
 
+1- Diseñar el formulario de recepción de       reportes.
+2- Establecer el protocolo de seguridad        para la gestión de datos sensibles.
+
+• ¿Por qué son las más importantes?: Porque sin un formulario adecuado no se puede centralizar la información, y sin protocolos de seguridad se pone en riesgo la privacidad de la comunidad desde el inicio.
+
+• ¿Qué significa para ti que una tarea esté "terminada"?: Una tarea está terminada cuando cumple con los estándares de calidad definidos y garantiza el funcionamiento seguro del proceso.
+
+• Definición de "terminado" (3 criterios):
+
+1- La funcionalidad cumple con el objetivo     de gestión social.
+2- Fue probada para asegurar que no expone     datos sensibles.
+3- Quedó debidamente documentada y             registrada en Git.
