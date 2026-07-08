@@ -1,1 +1,17 @@
+Entidad: Reporte
+• Campos principales:
+      • id
+      • categoria
+      • detalle
+      • ubicacion_referencial
 
+• Propósito: Almacenar la información         básica de las incidencias o                 irregularidades reportadas por los          ciudadanos para su posterior revisión.
+
+Entidad: Seguimiento
+• Campos principales:
+      • id
+      • reporte_id
+      • estado_gestion
+      • fecha_actualizacion
+
+Propósito: Registrar el avance administrativo y el estado actual de cada reporte para garantizar la trazabilidad del proceso de veeduría.
