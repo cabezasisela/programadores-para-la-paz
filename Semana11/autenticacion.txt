@@ -1,1 +1,1 @@
-
+El login es el mecanismo de verificación que identifica al usuario antes de permitirle acceder a funciones específicas. Algunas rutas requieren protección porque contienen información privada, registros internos o acciones administrativas que no deben ser visibles para todos. Por ello, nunca se deben exponer públicamente contraseñas, documentos de identidad, números telefónicos, direcciones, tokens de acceso ni datos sensibles de los miembros de la comunidad. Estas medidas son fundamentales para garantizar la seguridad y la integridad del sistema.
