@@ -1,1 +1,4 @@
-
+El diseño contará con un formulario para el registro de nuevas causas, solicitando exclusivamente el nombre del proyecto, una breve explicación y la fecha actual.
+Se incluirá un panel de visualización donde se expondrán todas las causas activas para facilitar la consulta por parte de cualquier usuario.
+Además, cada publicación dispondrá de una opción para otorgar respaldo y un medidor que actualizará la cantidad de apoyos recibidos de forma automática.
+La plataforma mantendrá un diseño minimalista y, como medida de seguridad, ocultará cualquier dato de carácter privado o sensible de los participantes.
