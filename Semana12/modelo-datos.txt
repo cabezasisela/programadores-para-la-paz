@@ -1,1 +1,18 @@
+Entidades del Sistema:
 
+1. Causa
+id
+titulo
+descripcion
+fecha
+
+Explicación: Esta entidad sirve para registrar y almacenar de forma organizada toda la información de las solicitudes o problemáticas que la comunidad publica en la plataforma.
+
+2. Apoyo
+
+id
+causa_id
+nombre
+fecha
+
+Explicación: Esta entidad sirve para registrar cada respaldo digital que un ciudadano le da a una causa específica. Permite contar los apoyos totales y conectar cada voto con su respectiva iniciativa gracias al campo causa_id.
