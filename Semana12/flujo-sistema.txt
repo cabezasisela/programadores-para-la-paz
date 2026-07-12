@@ -1,1 +1,5 @@
-
+Un ciudadano ingresa a la plataforma y crea una causa comunitaria explicando su petición.
+La causa se registra automáticamente en la base de datos del sistema para que quede guardada.
+Otros miembros de la comunidad entran a la aplicación y registran su apoyo digital a la causa.
+El sistema cuenta los apoyos acumulados y, mediante n8n o Telegram, envía una notificación automática sobre el avance de la petición.
+Al alcanzar la meta, la plataforma genera automáticamente un documento PDF formal con la petición y todos los apoyos registrados para ser presentado ante las autoridades.
